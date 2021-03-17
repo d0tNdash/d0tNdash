@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @d0tNdash
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning MERN Dev Stack
+- 💞️ I’m looking to collaborate on open-source projects with good first issues
